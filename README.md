@@ -1,4 +1,4 @@
-Flask + React simple app.
+Flask + React simple test app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
