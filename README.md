@@ -1,4 +1,4 @@
-Flask + React simple test app. Usage: Add values to see them in the table.
+Flask + React simple test app. Usage: add values to see them in the table.
 
 Server side: Python 3, Flask, SQLAlchemy, PostgreSQL
 
